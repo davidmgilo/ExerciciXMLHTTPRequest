@@ -8,6 +8,12 @@
     <title>Document</title>
 </head>
 <body>
+<div id="demo">
+    <h1>The XMLHttpRequest Object</h1>
+    <button type="button" onclick="loadDoc()">Request</button>
+</div>
 
+
+<script src="app.js"></script>
 </body>
 </html>
