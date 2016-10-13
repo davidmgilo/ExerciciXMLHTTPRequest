@@ -10,7 +10,7 @@
 <body>
 <h1>Prova amb el botó:</h1>
 <div id="demo">
-    <button type="button" onclick="requestPDP('PUT')">Request</button>
+    <button type="button" onclick="requestPDP('DELETE')">Request</button>
 </div>
 
 <form id ="myFormElement">
