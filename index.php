@@ -13,6 +13,7 @@
     <button type="button" onclick="requestGetAsin()">Request</button>
 </div>
 
+<button type="button">Funciona?</button>
 
 <script src="app.js"></script>
 </body>

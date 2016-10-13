@@ -10,7 +10,7 @@ function requestGet() {
 
 function requestGetAsin() {
     var req = new XMLHttpRequest();
-    req.open('GET', 'http://www.mozilla.org/', true);
+    req.open('GET', 'http://localhost:8000/test-file/file.txt', true);
     req.onreadystatechange = function (aEvt) {
         if (req.readyState == 4) {
             if (req.status == 200)
